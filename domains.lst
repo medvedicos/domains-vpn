@@ -791,3 +791,5 @@ nftset=/cogentco.com/4#inet#fw4#vpn_domains
 nftset=/twelve99-cust.net/4#inet#fw4#vpn_domains
 nftset=/colocrossing.com/4#inet#fw4#vpn_domains
 nftset=/gtt.net/4#inet#fw4#vpn_domains
+nftset=/ndi.video/4#inet#fw4#vpn_domains
+
