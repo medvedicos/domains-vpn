@@ -773,3 +773,4 @@ nftset=/login.tidal.com/4#inet#fw4#vpn_domains
 nftset=/tidalhi.fi/4#inet#fw4#vpn_domains
 nftset=/instagram.com/4#inet#fw4#vpn_domains
 nftset=/cdninstagram.com/4#inet#fw4#vpn_domains
+nftset=/deepl.com/4#inet#fw4#vpn_domains
