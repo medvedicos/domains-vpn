@@ -775,3 +775,4 @@ nftset=/deepl.com/4#inet#fw4#vpn_domains
 nftset=/instagram.com/4#inet#fw4#vpn_domains
 nftset=/cdninstagram.com/4#inet#fw4#vpn_domains
 nftset=/head-fi.org/4#inet#fw4#vpn_domains
+nftset=/doubleclick.net/4#inet#fw4#vpn_domains
