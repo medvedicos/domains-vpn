@@ -792,3 +792,5 @@ nftset=/gstatic.com/4#inet#fw4#vpn_domains
 nftset=/www.gstatic.com/4#inet#fw4#vpn_domains
 nftset=/usage.trackjs.com/4#inet#fw4#vpn_domains
 nftset=/trackjs.com/4#inet#fw4#vpn_domains
+nftset=/asset-eu-ff.surveysparrow.com/4#inet#fw4#vpn_domains
+nftset=/play.qobuz.com/4#inet#fw4#vpn_domains
