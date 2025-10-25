@@ -780,4 +780,6 @@ nftset=/securepubads.g.doubleclick.net/4#inet#fw4#vpn_domains
 nftset=/cdn.viglink.com/4#inet#fw4#vpn_domains
 nftset=/api-global.squareup.com/4#inet#fw4#vpn_domains
 nftset=/sp-ad-fa.audio.tidal.com/4#inet#fw4#vpn_domains
-
+nftset=/t.17track.net/4#inet#fw4#vpn_domains
+nftset=/17track.net/4#inet#fw4#vpn_domains
+nftset=/static.17track.net/4#inet#fw4#vpn_domains
