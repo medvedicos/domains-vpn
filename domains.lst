@@ -818,4 +818,4 @@ nftset=/static.qobuz.com/4#inet#fw4#vpn_domains
 nftset=/streaming2.qobuz.com/4#inet#fw4#vpn_domains
 nftset=/opml.radiotime.com/4#inet#fw4#vpn_domains
 nftset=/static.virgul.com/4#inet#fw4#vpn_domains
-
+nftset=/cdn-ima.33across.com/4#inet#fw4#vpn_domains
