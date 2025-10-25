@@ -769,6 +769,7 @@ nftset=/ndi.tv/4#inet#fw4#vpn_domains
 nftset=/downloads.ndi.tv/4#inet#fw4#vpn_domains
 nftset=/master.dl.sourceforge.net/4#inet#fw4#vpn_domains
 nftset=/captcha-delivery.com/4#inet#fw4#vpn_domains
+nftset=/ct.captcha-delivery.com/4#inet#fw4#vpn_domains
 nftset=/login.tidal.com/4#inet#fw4#vpn_domains
 nftset=/tidalhi.fi/4#inet#fw4#vpn_domains
 nftset=/deepl.com/4#inet#fw4#vpn_domains
