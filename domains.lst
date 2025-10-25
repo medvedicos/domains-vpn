@@ -788,3 +788,5 @@ nftset=/cdn.adpushup.com/4#inet#fw4#vpn_domains
 nftset=/qobuz.com/4#inet#fw4#vpn_domains
 nftset=/assets.ubembed.com/4#inet#fw4#vpn_domains
 nftset=/ubembed.com/4#inet#fw4#vpn_domains
+nftset=/gstatic.com/4#inet#fw4#vpn_domains
+nftset=/www.gstatic.com/4#inet#fw4#vpn_domains
