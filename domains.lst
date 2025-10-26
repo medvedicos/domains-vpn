@@ -790,7 +790,6 @@ nftset=/d.darity.ms/4#inet#fw4#vpn_domains
 nftset=/mcbluna.net/*/4#inet#fw4#vpn_domains
 nftset=/tunein.com/*/4#inet#fw4#vpn_domains
 nftset=/sync.1rx.io/4#inet#fw4#vpn_domains
-nftset=/cdn-profiles.tunein.com/4#inet#fw4#vpn_domains
 nftset=/tunein-d.openx.net/4#inet#fw4#vpn_domains
 nftset=/tunein.deliveryengine.adswizz.com/4#inet#fw4#vpn_domains
 nftset=/w.likebtn.com/4#inet#fw4#vpn_domains
