@@ -820,3 +820,4 @@ nftset=/opml.radiotime.com/4#inet#fw4#vpn_domains
 nftset=/static.virgul.com/4#inet#fw4#vpn_domains
 nftset=/cdn-ima.33across.com/4#inet#fw4#vpn_domains
 nftset=/roon.app/4#inet#fw4#vpn_domains
+nftset=/static-pr.roonlabs.net/4#inet#fw4#vpn_domains
