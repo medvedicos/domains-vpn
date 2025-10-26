@@ -804,3 +804,4 @@ nftset=/rubiconproject.com/*/4#inet#fw4#vpn_domains
 nftset=/webcontentassessor.com/*/4#inet#fw4#vpn_domains
 nftset=/pubmatic.com/*/4#inet#fw4#vpn_domains
 nftset=/streamtheworld.com/*/4#inet#fw4#vpn_domains
+nftset=/cloudfront.net/*/4#inet#fw4#vpn_domains
