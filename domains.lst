@@ -809,3 +809,4 @@ nftset=/suno.com/*/4#inet#fw4#vpn_domains
 nftset=/suno.ai/*/4#inet#fw4#vpn_domains
 nftset=/udio.com/*/4#inet#fw4#vpn_domains
 nftset=/stripe.com/*/4#inet#fw4#vpn_domains
+nftset=/.ua/4#inet#fw4#vpn_domains
