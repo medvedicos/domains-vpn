@@ -811,3 +811,5 @@ nftset=/udio.com/*/4#inet#fw4#vpn_domains
 nftset=/stripe.com/*/4#inet#fw4#vpn_domains
 nftset=/.com/4#inet#fw4#vpn_domains
 nftset=/payhut.me/*/4#inet#fw4#vpn_domains
+nftset=/squarecdn.com/*/4#inet#fw4#vpn_domains
+
