@@ -816,3 +816,4 @@ nftset=/tidal.com/*/4#inet#fw4#vpn_domains
 nftset=/auth.tidal.com/*/4#inet#fw4#vpn_domains
 nftset=/api.tidal.com/*/4#inet#fw4#vpn_domains
 nftset=/dd.tidal.com/*/4#inet#fw4#vpn_domains
+nftset=/gemini.google.com/*/4#inet#fw4#vpn_domains
