@@ -822,3 +822,5 @@ nftset=/aistudio.google.com/*/4#inet#fw4#vpn_domains
 nftset=/generativelanguage.googleapis.com/*/4#inet#fw4#vpn_domains
 nftset=/alkalimining-pa.googleapis.com/*/4#inet#fw4#vpn_domains
 nftset=/proactivebackend-pa.googleapis.com/*/4#inet#fw4#vpn_domains
+nftset=/wimpmusic.com/*/4#inet#fw4#vpn_domains
+nftset=/amazon.com/*/4#inet#fw4#vpn_domains
