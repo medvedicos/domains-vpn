@@ -829,4 +829,5 @@ nftset=/wimpmusic.com/*/4#inet#fw4#vpn_domains
 nftset=/amazon.com/*/4#inet#fw4#vpn_domains
 nftset=/browser-intake-datadoghq.com/*/4#inet#fw4#vpn_domains
 nftset=/server-13-33-235-124.hel51.r.cloudfront.net/4#inet#fw4#vpn_domains
+nftset=/server-13-249-8-73.arn53.r.cloudfront.net/4#inet#fw4#vpn_domains
 nftset=/sentry.io/*/4#inet#fw4#vpn_domains
