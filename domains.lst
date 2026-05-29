@@ -834,4 +834,4 @@ nftset=/sentry.io/*/4#inet#fw4#vpn_domains
 nftset=/7480726dac17b9882f531448f5327208.cloudfront.net/4#inet#fw4#vpn_domains
 nftset=/ipleak.net/*/4#inet#fw4#vpn_domains
 nftset=/browserleaks.com/*/4#inet#fw4#vpn_domains
-nftset=/clawhub.io/*/4#inet#fw4#vpn_domains
+nftset=/clawhub.ai/*/4#inet#fw4#vpn_domains
