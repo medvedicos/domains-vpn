@@ -836,3 +836,6 @@ nftset=/ipleak.net/*/4#inet#fw4#vpn_domains
 nftset=/browserleaks.com/*/4#inet#fw4#vpn_domains
 nftset=/clawhub.ai/*/4#inet#fw4#vpn_domains
 nftset=/nousresearch.com/*/4#inet#fw4#vpn_domains
+nftset=/telegram.org/*/4#inet#fw4#vpn_domains
+nftset=/t.me/*/4#inet#fw4#vpn_domains
+nftset=/t.co/*/4#inet#fw4#vpn_domains
