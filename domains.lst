@@ -840,3 +840,4 @@ nftset=/t.co/*/4#inet#fw4#vpn_domains
 nftset=/cdn-telegram.org/*/4#inet#fw4#vpn_domains
 nftset=/telegram-cdn.org/*/4#inet#fw4#vpn_domains
 nftset=/telegra.ph/*/4#inet#fw4#vpn_domains
+nftset=/ffm.to/*/4#inet#fw4#vpn_domains
