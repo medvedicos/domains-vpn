@@ -844,3 +844,4 @@ nftset=/telegra.ph/*/4#inet#fw4#vpn_domains
 nftset=/ffm.to/*/4#inet#fw4#vpn_domains
 nftset=/altervista.org/*/4#inet#fw4#vpn_domains
 nftset=/iubenda.com/*/4#inet#fw4#vpn_domains
+nftset=/software.download.prss.microsoft.com/4#inet#fw4#vpn_domains
