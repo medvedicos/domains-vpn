@@ -847,3 +847,4 @@ nftset=/iubenda.com/*/4#inet#fw4#vpn_domains
 nftset=/software.download.prss.microsoft.com/4#inet#fw4#vpn_domains
 nftset=/myip.com/4#inet#fw4#vpn_domains
 nftset=/eversolo.com/*/4#inet#fw4#vpn_domains
+nftset=/tidal-cms.s3.amazonaws.com/*/4#inet#fw4#vpn_domains
