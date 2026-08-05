@@ -806,6 +806,7 @@ nftset=/webcontentassessor.com/*/4#inet#fw4#vpn_domains
 nftset=/pubmatic.com/*/4#inet#fw4#vpn_domains
 nftset=/streamtheworld.com/*/4#inet#fw4#vpn_domains
 nftset=/cloudfront.net/*/4#inet#fw4#vpn_domains
+nftset=/m-stratovibe.prod.suno.com/4#inet#fw4#vpn_domains
 nftset=/suno.com/*/4#inet#fw4#vpn_domains
 nftset=/suno.ai/*/4#inet#fw4#vpn_domains
 nftset=/udio.com/*/4#inet#fw4#vpn_domains
