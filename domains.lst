@@ -864,4 +864,4 @@ nftset=/telesco.pe/*/4#inet#fw4#vpn_domains
 nftset=/tg.dev/*/4#inet#fw4#vpn_domains
 nftset=/t.me/*/4#inet#fw4#vpn_domains
 nftset=/tdesktop.com/*/4#inet#fw4#vpn_domains
-nftset=/dim06.srvhost.cloud/4#inet#fw4#vpn_domains
+nftset=/dim06.srvhost.cloud/*/4#inet#fw4#vpn_domains
